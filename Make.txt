@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Im making dome changes here to make a conflict
+=======
+Im making dome changes here to make a conflict
+new changes bitches
+>>>>>>> img-u
